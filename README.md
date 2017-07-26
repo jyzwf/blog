@@ -4,7 +4,7 @@
 
 ## OS
 [os之处理机调度](https://github.com/jyzwf/blog/issues/16)
-
+[os之死锁](https://github.com/jyzwf/blog/issues/17)
 [os之进程与线程](https://github.com/jyzwf/blog/issues/15)
 
 
