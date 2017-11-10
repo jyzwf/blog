@@ -37,7 +37,7 @@
 
 [排序之插入排序](https://github.com/jyzwf/blog/issues/1)
 
-[排序之希尔排序](http://bubkoo.com/2014/01/15/sort-algorithm/shell-sort/)
+[排序之希尔排序](https://github.com/jyzwf/blog/issues/28)
 
 [算法之递归](https://github.com/jyzwf/blog/issues/21)
 
