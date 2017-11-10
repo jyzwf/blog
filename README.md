@@ -13,6 +13,8 @@
 
 
 ## 数据结构
+[一棵二叉排序树](https://github.com/jyzwf/blog/issues/29)
+
 [数据结构之栈](https://github.com/jyzwf/blog/issues/8)
 
 [数据结构之链栈](https://github.com/jyzwf/blog/issues/13)
