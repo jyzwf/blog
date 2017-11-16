@@ -13,6 +13,8 @@
 
 
 ## 数据结构
+[图的深度优先遍历和广度优先遍历](https://github.com/jyzwf/blog/issues/31)
+
 [一棵二叉排序树](https://github.com/jyzwf/blog/issues/29)
 
 [数据结构之栈](https://github.com/jyzwf/blog/issues/8)
