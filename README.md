@@ -9,6 +9,8 @@
 
 
 ## 前端
+[聊聊 underscore 里面是怎样实现 bind() 的？](https://github.com/jyzwf/blog/issues/36)
+
 [JSON.stringify](https://github.com/jyzwf/blog/issues/35)
 
 [前端基础之块级元素和行内元素](https://github.com/jyzwf/blog/issues/7)
