@@ -9,6 +9,8 @@
 
 
 ## 前端
+[Underscore 里面比较两个值的相等](https://github.com/jyzwf/blog/issues/38)
+
 [underscore 里的 throttle 和 debounce](https://github.com/jyzwf/blog/issues/37)
 
 [聊聊 underscore 里面是怎样实现 bind() 的？](https://github.com/jyzwf/blog/issues/36)
