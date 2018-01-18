@@ -1,6 +1,8 @@
 # blog
 试试在Issues里面记录自己得点滴
 
+## 计网
+[鼠标点击一个链接后发生了啥](https://github.com/jyzwf/blog/issues/41)
 
 ## OS
 [os之处理机调度](https://github.com/jyzwf/blog/issues/16)  
