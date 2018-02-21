@@ -11,6 +11,8 @@
 
 
 ## 前端
+[我看Vuex(一)](https://github.com/jyzwf/blog/issues/47)  
+
 [webpack打包后代码浅析3](https://github.com/jyzwf/blog/issues/45)  
 
 [webpack打包后代码浅析2](https://github.com/jyzwf/blog/issues/44)  
