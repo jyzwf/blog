@@ -17,6 +17,8 @@
 
 [我看Vuex(一)](https://github.com/jyzwf/blog/issues/47)  
 
+[JSONP 跨域](https://github.com/jyzwf/blog/issues/50)  
+
 [webpack打包后代码浅析3](https://github.com/jyzwf/blog/issues/45)  
 
 [webpack打包后代码浅析2](https://github.com/jyzwf/blog/issues/44)  
