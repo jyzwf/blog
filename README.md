@@ -11,6 +11,10 @@
 
 
 ## 前端
+[我看Vuex(三)](https://github.com/jyzwf/blog/issues/49)  
+
+[我看Vuex(二)](https://github.com/jyzwf/blog/issues/48)  
+
 [我看Vuex(一)](https://github.com/jyzwf/blog/issues/47)  
 
 [webpack打包后代码浅析3](https://github.com/jyzwf/blog/issues/45)  
