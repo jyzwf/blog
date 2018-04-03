@@ -11,6 +11,8 @@
 
 
 ## 前端
+[谈谈 delete](https://github.com/jyzwf/blog/issues/52)  
+
 [我看Vuex(三)](https://github.com/jyzwf/blog/issues/49)  
 
 [我看Vuex(二)](https://github.com/jyzwf/blog/issues/48)  
